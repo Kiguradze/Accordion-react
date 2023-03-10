@@ -24,6 +24,21 @@ const DATA = [
     title: "Accordion 5",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe veritatis, ad, fugit officiis eum exercitationem dolores labore adipisci architecto porro ipsum, aspernatur non minus cupiditate obcaecati nisi dolor a molestiaeLorem ipsum dolor sit amet consectetur adipisicing elit. Saepe veritatis, ad, fugit officiis eum exercitationem dolores labore adipisci architecto porro ipsum, aspernatur non minus cupiditate obcaecati nisi dolor a molestiae",
   },
+  {
+    id: 6,
+    title: "Accordion 6",
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe veritatis, ad, fugit officiis eum exercitationem dolores labore adipisci architecto porro ipsum, aspernatur non minus cupiditate obcaecati nisi dolor a molestiaeLorem ipsum dolor sit amet consectetur adipisicing elit. Saepe veritatis, ad, fugit officiis eum exercitationem dolores labore adipisci architecto porro ipsum, aspernatur non minus cupiditate obcaecati nisi dolor a molestiae,Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe veritatis, ad, fugit officiis eum exercitationem dolores labore adipisci architecto porro ipsum, aspernatur non minus cupiditate obcaecati nisi dolor a molestiaeLorem ipsum dolor sit amet consectetur adipisicing elit. Saepe veritatis, ad, fugit officiis eum exercitationem dolores labore adipisci architecto porro ipsum,",
+  },
+  {
+    id: 7,
+    title: "Accordion 7",
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe veritatis, ad, fugit officiis eum exercitationem dolores labore adipisci architecto porro ipsum, aspernatur non minus cupiditate obcaecati nisi dolor a molestiaeLorem ipsum dolor sit amet consectetur adipisicing elit. Saepe veritatis, ad, fugit officiis eum exercitationem dolores labore adipisci architecto porro ipsum, aspernatur non minus cupiditate obcaecati nisi dolor a molestiae",
+  },
+  {
+    id: 8,
+    title: "Accordion 8",
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe veritatis, ad, fugit officiis eum exercitationem dolores labore adipisci architecto porro ipsum, aspernatur non minus cupiditate obcaecati nisi dolor a molestiaeLorem ipsum dolor sit amet consectetur adipisicing elit. Saepe veritatis, ad, fugit officiis eum exercitationem dolores labore adipisci architecto porro ipsum, aspernatur non minus cupiditate obcaecati nisi dolor a molestiae",
+  },
 ];
 
 export default DATA;
