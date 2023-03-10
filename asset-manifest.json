@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/%7BAccordion-react%7D/static/css/main.8359d37a.css",
-    "main.js": "/%7BAccordion-react%7D/static/js/main.d3fbdd85.js",
-    "index.html": "/%7BAccordion-react%7D/index.html",
-    "main.8359d37a.css.map": "/%7BAccordion-react%7D/static/css/main.8359d37a.css.map",
-    "main.d3fbdd85.js.map": "/%7BAccordion-react%7D/static/js/main.d3fbdd85.js.map"
+    "main.css": "/Accordion-react/static/css/main.8359d37a.css",
+    "main.js": "/Accordion-react/static/js/main.d3fbdd85.js",
+    "index.html": "/Accordion-react/index.html",
+    "main.8359d37a.css.map": "/Accordion-react/static/css/main.8359d37a.css.map",
+    "main.d3fbdd85.js.map": "/Accordion-react/static/js/main.d3fbdd85.js.map"
   },
   "entrypoints": [
     "static/css/main.8359d37a.css",
